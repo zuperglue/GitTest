@@ -4,6 +4,8 @@ public class TheClass {
 		int i = 0; // comment
 		
 		i = i +1;
+		
+		int j = 1;
 	}
 
 }
