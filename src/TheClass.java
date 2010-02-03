@@ -9,6 +9,7 @@ public class TheClass {
 		j= j*2;
 		// hej hå
 		// 0.4
+		// 0.5
 	}
 
 }
