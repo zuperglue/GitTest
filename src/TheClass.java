@@ -7,6 +7,7 @@ public class TheClass {
 		int j = 1;
 		j = i;
 		j= j*2;
+		// hej hå
 	}
 
 }
