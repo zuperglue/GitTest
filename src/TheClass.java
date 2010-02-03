@@ -1,3 +1,4 @@
+
 public class TheClass {
 	
 	public void doStuff(){
@@ -6,6 +7,9 @@ public class TheClass {
 		int j = 1;
 		j = i;
 		j= j*2;
+		// hej hå
+		// 0.4
+		// 0.5
 	}
 
 }
